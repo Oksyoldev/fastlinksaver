@@ -45,7 +45,9 @@ cd clipsyloader-bot`
 DOWNLOAD_PATH = "downloads"
 MAX_FILE_SIZE_MB = 50
 MAX_PHOTO_SIZE_MB = 20`
-### 4. Запустите бота
+### 4. Создайте папку downloads
+```downloads```
+### 5. Запустите бота
 ```python bot.py```
 
 ---
