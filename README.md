@@ -34,5 +34,10 @@ Telegram-бот для быстрого скачивания медиа с по�
 `
 git clone https://github.com/yourusername/clipsyloader-bot.git
 cd clipsyloader-bot`
-2. Установите зависимости
+### 2. Установите зависимости
 `pip install -r requirements.txt`
+### 3. Настройте конфигурацию (config.py)
+`TOKEN = "your_telegram_bot_token"
+DOWNLOAD_PATH = "downloads"
+MAX_FILE_SIZE_MB = 50
+MAX_PHOTO_SIZE_MB = 20`
