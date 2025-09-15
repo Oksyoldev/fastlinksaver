@@ -31,8 +31,8 @@ Telegram-бот для быстрого скачивания медиа с по�
 ## 📦 Установка и запуск
 
 ### 1. Клонируйте репозиторий
-```bash
+`
 git clone https://github.com/yourusername/clipsyloader-bot.git
-cd clipsyloader-bot
-###2. Установите зависимости
-pip install -r requirements.txt
+cd clipsyloader-bot`
+2. Установите зависимости
+`pip install -r requirements.txt`
